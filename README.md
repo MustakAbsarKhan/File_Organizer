@@ -1,22 +1,25 @@
-# File_Organizer
- ## => This code organizes files in a given directory by moving them into corresponding category folders based on their file extensions. </br> </br> => The categories include images, PDFs, videos, and various types of files. It also includes functionality to delete any empty category folders at the end of the program.
+# File Organizer
 
-## ★ How to Use It? ★
+File Organizer is a simple yet powerful program that helps you organize your files based on their type and extension. With just a few clicks, you can easily sort your files into different categories, such as images, videos, audios, PDFs, and more. 
 
-1. Download the executable file from the following link: <a href="https://github.com/MustakAbsarKhan/File_Organizer/raw/main/exe_file/File_Organizer.exe" target="_blank"> Click Here </a> </br>
+## Download
 
-2. Once the download is complete, double-click the executable file to launch the program. </br>
+You can download the File Organizer program from the [link](https://github.com/MustakAbsarKhan/File_Organizer/raw/main/exe_file/File_Organizer.exe).
 
-3. You will be prompted to enter the directory path to organize. Type or paste the directory path in the input box and press Enter. </br>
+## How to use
 
-4. The program will automatically create folders for different file types (images, PDFs, audios, videos, and files) if they don't exist in the specified directory. </br>
+1. Download the File Organizer program from the link provided above.
+2. Double click the downloaded `File_Organizer.exe` file to launch the program.
+3. Once the program is launched, enter the directory path that you want to organize.
+4. The program will automatically create category folders if they do not exist already.
+5. The program will then loop through all the files in the specified directory and move them to the corresponding category folder.
+6. Any empty category folders will be deleted automatically.
+7. Once the program finishes organizing your files, you will see a message indicating that your files are organized and sorted by name.
 
-5. The program will then start organizing files based on their file extensions and move them to their corresponding category folders. </br>
+## Contributing
 
-6. After the organization process is complete, the program will delete any empty category folders. </br>
+File Organizer is an open-source project, and we welcome contributions from anyone who is interested in making the digital world a more organized place. To contribute to the project, simply fork the repository, make your changes, and submit a pull request. 
 
-### Voila! Your files are now organized and sorted by name.
+## License
 
-## Note: Make sure that the files you want to organize are not located inside any folders within the specified directory, as the program only organizes files that are outside of folders.
-
-### We hope you find this program helpful in keeping your digital life organized! If you have any questions or feedback, feel free to contact us.
+File Organizer is licensed under the [MIT license](https://github.com/MustakAbsarKhan/File_Organizer/blob/main/LICENSE), which means you are free to use, modify, and distribute the program as long as you provide attribution to the original authors.
