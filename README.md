@@ -1,24 +1,15 @@
-# File Organizer_Windows
+# File Organizer
 
-File Organizer is a simple yet powerful program that helps you organize your files based on their type and extension. With just a few clicks, you can easily sort your files into different categories, such as images, videos, audios, PDFs, and more. 
+File Organizer is a simple yet powerful program that helps you organize your files based on their type and extension. With just a few clicks, you can easily sort your files into different categories, such as images, videos, audios, PDFs, and more. The program is available for both Windows and Linux operating systems.
 
-## Download
+## Windows Installation
 
-You can download the File Organizer program from the [link](https://github.com/MustakAbsarKhan/File_Organizer/raw/main/exe_file/File_Organizer.exe).
+To use the program on Windows, follow these steps:
 
-## How to use
-
-1. Download the File Organizer program from the link provided above.
+1. Download the File Organizer program from the [link](https://github.com/MustakAbsarKhan/File_Organizer/raw/main/exe_file/File_Organizer.exe).
 2. Double click the downloaded `File_Organizer.exe` file to launch the program.
-3. Once the program is launched, enter the directory path that you want to organize.
-4. The program will automatically create category folders if they do not exist already.
-5. The program will then loop through all the files in the specified directory and move them to the corresponding category folder.
-6. Any empty category folders will be deleted automatically.
-7. Once the program finishes organizing your files, you will see a message indicating that your files are organized and sorted by name.
 
-# File Organizer_Linux
-
-## Installation
+## Linux Installation
 
 Before using the script, make sure you have Python installed on your Linux machine. If not, you can install it by running the following command:
 
@@ -35,10 +26,22 @@ pip3 install shutil
 
 ## Usage
 
-1. Download the "File_Organizer.py" script from this repository and save it in a directory where you want to organize your files.
+### Windows
 
+Once the program is launched on Windows, follow these steps to use it:
+
+1. Enter the directory path that you want to organize.
+2. The program will automatically create category folders if they do not exist already.
+3. The program will then loop through all the files in the specified directory and move them to the corresponding category folder.
+4. Any empty category folders will be deleted automatically.
+5. Once the program finishes organizing your files, you will see a message indicating that your files are organized and sorted by name.
+
+### Linux
+
+To use the script on Linux, follow these steps:
+
+1. Download the `File_Organizer.py` script from this repository and save it in a directory where you want to organize your files.
 2. Open the terminal and navigate to the directory where you saved the script.
-
 3. Run the following command to execute the script:
 
 ```bash
@@ -52,12 +55,11 @@ Enter the directory path to organize:
 ```
 
 5. The script will then organize the files in the directory based on their file type and extension.
-
 6. After the script finishes running, you will see the organized files in separate folders based on their categories.
 
 ## Contributing
 
-File Organizer is an open-source project, and we welcome contributions from anyone who is interested in making the digital world a more organized place. To contribute to the project, simply fork the repository, make your changes, and submit a pull request. 
+File Organizer is an open-source project, and we welcome contributions from anyone who is interested in making the digital world a more organized place. To contribute to the project, simply fork the repository, make your changes, and submit a pull request.
 
 ## License
 
