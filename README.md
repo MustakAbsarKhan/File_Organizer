@@ -18,12 +18,6 @@ You can download the File Organizer program from the [link](https://github.com/M
 
 # File Organizer_Linux
 
-Sure, here's an example Github readme with proper formatting on how to use your "File_Organizer.py" script in Linux:
-
-# File Organizer
-
-File Organizer is a Python script that helps you organize your messy files in a directory by sorting and categorizing them based on their file type and extension.
-
 ## Installation
 
 Before using the script, make sure you have Python installed on your Linux machine. If not, you can install it by running the following command:
